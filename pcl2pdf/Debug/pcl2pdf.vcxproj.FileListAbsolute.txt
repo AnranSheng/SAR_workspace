@@ -1,0 +1,2 @@
+C:\Users\tra\Desktop\ConsoleApp0406\Debug\pcl2pdfd.dll
+C:\Users\tra\Desktop\ConsoleApp0406\Debug\gpcl6dll32.dll

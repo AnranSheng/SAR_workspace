@@ -1,0 +1,8 @@
+﻿  main.cpp
+main.cpp(12): warning C4007: “main”: 必须是“__cdecl”
+  pcl2pdf.cpp
+  正在生成代码
+  All 8 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  pcl2pdf.vcxproj -> E:\0000Projects\pcl2pdf_exe\pcl2pdf\Release\pcl2pdf.exe
+  pcl2pdf.vcxproj -> E:\0000Projects\pcl2pdf_exe\pcl2pdf\Release\pcl2pdf.pdb (Full PDB)
